@@ -6,6 +6,12 @@ This project is a simple, educational **keylogger built entirely in Zig for Wind
 
 -----
 
+## 🛠️ Technologies Used
+
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+
+---
+ 
 ## Legal & Ethical Warning
 
 This project is intended for **educational and red team research purposes only** within your own controlled lab or testing environment. **Do not deploy this on any system you do not own or for which you lack explicit, written permission.** Unauthorized access or monitoring is illegal and unethical.
