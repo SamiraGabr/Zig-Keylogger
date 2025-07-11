@@ -1,4 +1,4 @@
-# `zig-keylogger`
+# `Zig-Keylogger`
 
 ## Project Overview
 
